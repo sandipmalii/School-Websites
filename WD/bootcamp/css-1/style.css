@@ -1,0 +1,29 @@
+.form{
+    font-family: cursive;
+    font-weight: bold;
+    color: #414b41;
+}
+h1{
+    font-family: 'Trebuchet MS' ;    
+    font-size: 3em;
+    color: #083f41;
+}
+.container{
+    font-family:'Courier New';
+    position: absolute;
+    left: 35%;
+    background: rgb(121, 116, 116);
+    padding: 2% 3%;
+    border-radius: 20px;
+}
+.ps{    
+    color: white;
+    background-color: #0d3612;
+    font-size: 1em;
+    font-family: -webkit-pictograph;
+    font-weight: 400; border: 1px solid;
+    border-color: midnightblue;
+}
+#pro{
+    color: black;
+}

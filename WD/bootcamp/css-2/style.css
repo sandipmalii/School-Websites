@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+}
+
+.top{
+    width: 900px;
+    height: 200px;
+    background: #FF9933;
+}
+
+.middle{
+    width: 900px;
+    height: 200px;
+    background: #FFFFFF;
+}
+
+.circle{
+    position: relative;
+    height: 100px;
+    width: 100px;    
+    left: 45%;
+    top: 25%;
+}
+.img{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    background: url(img.svg);
+    background-size: cover;
+}
+
+.bottom{
+    width: 900px;
+    height: 200px;
+    background-color: #138808;
+}
